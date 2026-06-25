@@ -1,1 +1,17 @@
-{"name": "Botforge — Crypto Trading Bot", "short_name": "Botforge", "start_url": "/", "display": "standalone", "background_color": "#12100C", "theme_color": "#12100C", "icons": [{"src": "assets/web-app-manifest-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"}, {"src": "assets/web-app-manifest-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]}
+{
+  "name": "Best Crypto Trading Bot",
+  "short_name": "Trading Bot",
+  "start_url": "https://trading-bot-crypto.github.io/",
+  "scope": "https://trading-bot-crypto.github.io/",
+  "display": "standalone",
+  "background_color": "#F7F6F2",
+  "theme_color": "#0EA5A0",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
